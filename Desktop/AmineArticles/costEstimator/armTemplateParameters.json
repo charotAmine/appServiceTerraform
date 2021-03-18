@@ -1,0 +1,6 @@
+{
+    "Microsoft.Web/serverfarms" :{
+        "serviceName":"app service plan",
+        "skuName" : "sku-name" 
+    }
+}

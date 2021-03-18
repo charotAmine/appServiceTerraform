@@ -1,0 +1,26 @@
+{
+    "Key Vault" :{
+        "skuName" : "sku_name" 
+    },
+    "Azure App Service" :{
+        "skuName" : "sku-size",
+        "I1v2": "I1 v2",
+        "I2v2": "I2 v2",
+        "I3v2": "I3 v2",
+        "P1v2": "P1 v2",
+        "P2v2": "P2 v2",
+        "P3v2": "P3 v2",
+        "P1v3": "P1 v3",
+        "P2v3": "P2 v3",
+        "P3v3": "P3 v3"
+    },
+    "Storage" : {
+        "skuName": "account_replication_type",
+        "lrs":"LRS",
+        "grs":"GRS",
+        "RAGRS":"RA-GRS",
+        "zrs":"ZRS",
+        "gzrs":"GZRS",
+        "RAGZRS":"RA-GZRS"
+    }
+}
